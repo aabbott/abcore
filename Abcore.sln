@@ -8,7 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{5B92C8E6-CB99-4D78-A918-82C296C5D5C2}"
 	ProjectSection(SolutionItems) = preProject
 		web\index.html = web\index.html
-		sample.html = sample.html
 	EndProjectSection
 EndProject
 Global
